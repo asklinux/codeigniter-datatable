@@ -1,3 +1,8 @@
+CodeIgniter With Datatable 
+
+This code for using ci with jquery datatables
+
+
 ###################
 What is CodeIgniter
 ###################
